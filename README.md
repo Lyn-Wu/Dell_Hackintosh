@@ -1,4 +1,4 @@
-# Dell_Hackintosh
+# Dell 5577 Hackintosh
 Hackintosh monterey 12.0.1 EFI with opencore 0.7.5
 
 # Notice
